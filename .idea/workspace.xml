@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecfdf948-bb8a-41a5-8b90-3c138d16d098" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/IsocelesTriangle.java" afterPath="$PROJECT_DIR$/src/IsocelesTriangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DiamondWithName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="342">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondWithName.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DiamondWithName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -106,14 +117,15 @@
         <option value="$PROJECT_DIR$/src/RightAngleTriangle.java" />
         <option value="$PROJECT_DIR$/src/Diamond.java" />
         <option value="$PROJECT_DIR$/src/IsocelesTriangle.java" />
+        <option value="$PROJECT_DIR$/src/DiamondWithName.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="151" />
-    <option name="y" value="77" />
+    <option name="x" value="61" />
+    <option name="y" value="79" />
     <option name="width" value="1344" />
-    <option name="height" value="696" />
+    <option name="height" value="668" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,7 +161,7 @@
               <item name="IsocelesTriangle" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ Projects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Diamond.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="DiamondWithName.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diamond">
+  <component name="RunManager" selected="Application.DiamondWithName">
     <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Diamond" />
@@ -186,9 +198,9 @@
       <module name="Assignment" />
       <envs />
     </configuration>
-    <configuration name="HorizontalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="HorizontalLine" />
+      <option name="MAIN_CLASS_NAME" value="DiamondWithName" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,19 +348,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HorizontalLine" />
-      <item index="1" class="java.lang.String" itemvalue="Application.VerticalLine" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IsocelesTriangle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Diamond" />
+      <item index="0" class="java.lang.String" itemvalue="Application.VerticalLine" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IsocelesTriangle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Diamond" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DiamondWithName" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Diamond" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IsocelesTriangle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.VerticalLine" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HorizontalLine" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DiamondWithName" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Diamond" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IsocelesTriangle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.VerticalLine" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +379,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -376,7 +389,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33033034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33033034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -471,8 +484,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="342">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiamondWithName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding />
         </state>
       </provider>

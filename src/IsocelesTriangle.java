@@ -11,10 +11,15 @@ class DrawIsocelesTriangle{
     private int triangleWidth;
     public void inputWidth(){
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter triangle width");
+        System.out.println("Enter base width");
         int width = in.nextInt();
         this.triangleWidth = width;
     }
+    public int getTriangleWidth()
+    {
+        return triangleWidth;
+    }
+
     public void drawTriangle()
     {
         for(int index = 0; index < triangleWidth; index++)

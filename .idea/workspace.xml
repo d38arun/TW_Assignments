@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfdf948-bb8a-41a5-8b90-3c138d16d098" name="Default" comment="" />
+    <list default="true" id="ecfdf948-bb8a-41a5-8b90-3c138d16d098" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RightAngleTriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerticalLine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VerticalLine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VerticalLine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightAngleTriangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RightAngleTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -68,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/EasiestExercise.java" />
         <option value="$PROJECT_DIR$/src/HorizontalLine.java" />
         <option value="$PROJECT_DIR$/src/VerticalLine.java" />
+        <option value="$PROJECT_DIR$/src/RightAngleTriangle.java" />
       </list>
     </option>
   </component>
@@ -107,6 +121,12 @@
               <item name="IntelliJ Projects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IsocelesTriangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RightAngleTriangle.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -127,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VerticalLine">
+  <component name="RunManager" selected="Application.RightAngleTriangle">
     <configuration name="EasiestExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EasiestExercise" />
@@ -145,6 +165,20 @@
     <configuration name="HorizontalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="HorizontalLine" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Assignment" />
+      <envs />
+    </configuration>
+    <configuration name="RightAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RightAngleTriangle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -263,16 +297,18 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.EasiestExercise" />
       <item index="1" class="java.lang.String" itemvalue="Application.HorizontalLine" />
       <item index="2" class="java.lang.String" itemvalue="Application.VerticalLine" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.VerticalLine" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HorizontalLine" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EasiestExercise" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.RightAngleTriangle" />
+        <item index="1" class="java.lang.String" itemvalue="Application.VerticalLine" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HorizontalLine" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EasiestExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -370,6 +406,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RightAngleTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>
